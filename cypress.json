@@ -1,0 +1,10 @@
+{
+  "ignoreTestFiles": "*.ts",
+  "env":{
+    "url":"https://juice-shop.guardrails.ai/#/",
+    "apiURL":"https://juice-shop.guardrails.ai/rest/",
+    "addBasketURL":"https://juice-shop.guardrails.ai/api/BasketItems/",
+    "getTotalItemsInCart":"https://juice-shop.guardrails.ai/rest/basket/8",
+    "deleteBasketItem":"https://juice-shop.guardrails.ai/api/BasketItems/"
+  }
+}
